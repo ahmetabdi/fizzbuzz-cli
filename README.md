@@ -1,6 +1,6 @@
 # FizzbuzzCli
 
-**TODO: Add description**
+FizzBuzz CLI Tool
 
 ## Installation
 
@@ -22,3 +22,18 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+## Build
+
+To build the executable run `mix escript.build`
+
+This will generate a fizzbuzz_cli tool that you can run with `./fizzbuzz_cli`
+
+## Running
+
+To calculate FizzBuzz
+
+`./fizzbuzz_cli --number 5`
+
+To favourite a FizzBuzz number
+
+`./fizzbuzz_cli --number 5 --favourite`
