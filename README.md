@@ -1,6 +1,6 @@
 # FizzbuzzCli
 
-FizzBuzz CLI Tool
+FizzBuzz CLI Tool in Elixir
 
 ## Build
 
