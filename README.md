@@ -21,3 +21,7 @@ To calculate FizzBuzz
 To favourite a FizzBuzz number
 
 `./fizzbuzz_cli --number 5 --favourite`
+
+To unfavourite a FizzBuzz number
+
+`./fizzbuzz_cli --number 5 --unfavourite`
