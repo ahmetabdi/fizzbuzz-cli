@@ -1,0 +1,2 @@
+defmodule FizzbuzzCli do
+end
